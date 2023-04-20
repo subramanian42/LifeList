@@ -33,7 +33,7 @@ class ProfilePage extends StatelessWidget {
                           ),
                           IconButton(
                               onPressed: () {
-                                navigationService.navigateReset(context, HOME);
+                                navigationService.navigatePop(context);
                               },
                               icon: const Icon(Icons.dashboard))
                         ],
