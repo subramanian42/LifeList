@@ -27,6 +27,10 @@
   "@home": {
     "description": "Home"
   },
+  "helloWorld":"HelloWorld",
+  "@helloWorld":{
+    "description": "HelloWorld"
+  },
   "profilePage": "ProfilePage",
   "@home": {
     "description": "Home"
